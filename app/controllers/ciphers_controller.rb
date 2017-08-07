@@ -11,4 +11,9 @@ class CiphersController < ApplicationController
 
   end
 
+  def team
+    @members = ["Amira", "Mohamed", "Fernando", "Charlie", "Kerryn", "Finn"]
+  end
+
+
 end

@@ -1,0 +1,21 @@
+<div class="container text-center">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+    <h1 class="text-center">Meet the team</h1>
+
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th class="text-center">Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% @members.each do |member| %>
+          <tr>
+            <td><%= member%></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+    <p><%= link_to "Home Page", root_path, class: "btn btn-primary" %></p>
+  </div>
+</div>

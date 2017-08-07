@@ -3,5 +3,6 @@ Rails.application.routes.draw do
 
   root to: 'ciphers#home'
   get '/encrypt', to: 'ciphers#encryption'
+  get '/team', to: 'ciphers#team'
 
 end
