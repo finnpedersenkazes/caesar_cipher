@@ -1,24 +1,7 @@
-# README
+# Caesar cipher
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Implementation of the Caesar cipher during live code on August 7th, 2017. 
 
-Things you may want to cover:
+https://en.wikipedia.org/wiki/Caesar_cipher
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Team: Amira, Mohamed, Fernando, Charlie, Kerryn, and Finn.
